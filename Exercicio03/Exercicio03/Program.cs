@@ -10,18 +10,18 @@ namespace Exercicio03
             Triangulo triangulo1 = new Triangulo();
             Triangulo triangulo2 = new Triangulo();
             
-            Console.Write("Entre com o valor do primeiro lado do primeiro triângulo");
+            Console.Write("Entre com o valor do primeiro lado do primeiro triângulo: ");
             triangulo1.LadoA = Double.Parse(Console.ReadLine());
-            Console.Write("Entre com o valor do segundo lado do primeiro triângulo");
+            Console.Write("Entre com o valor do segundo lado do primeiro triângulo: ");
             triangulo1.LadoB = Double.Parse(Console.ReadLine());
-            Console.Write("Entre com o valor do terceiro lado do primeiro triângulo");
+            Console.Write("Entre com o valor do terceiro lado do primeiro triângulo: ");
             triangulo1.LadoC = Double.Parse(Console.ReadLine());
             
-            Console.Write("Entre com o valor do primeiro lado do segundo triângulo");
+            Console.Write("Entre com o valor do primeiro lado do segundo triângulo: ");
             triangulo2.LadoA = Double.Parse(Console.ReadLine());
-            Console.Write("Entre com o valor do segundo lado do segundo triângulo");
+            Console.Write("Entre com o valor do segundo lado do segundo triângulo: ");
             triangulo2.LadoB = Double.Parse(Console.ReadLine());
-            Console.Write("Entre com o valor do terceiro lado do segundo triângulo");
+            Console.Write("Entre com o valor do terceiro lado do segundo triângulo: ");
             triangulo2.LadoC = Double.Parse(Console.ReadLine());
 
             double areaPrimeiroTriangulo = triangulo1.Area();
