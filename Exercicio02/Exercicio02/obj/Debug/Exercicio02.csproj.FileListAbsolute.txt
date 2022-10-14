@@ -1,0 +1,7 @@
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.AssemblyReference.cache
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.SuggestedBindingRedirects.cache
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\55199\Desktop\POO\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb
