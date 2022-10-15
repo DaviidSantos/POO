@@ -1,0 +1,7 @@
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\bin\Debug\Exercicio07.exe
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\bin\Debug\Exercicio07.pdb
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\obj\Debug\Exercicio07.csproj.AssemblyReference.cache
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\obj\Debug\Exercicio07.csproj.SuggestedBindingRedirects.cache
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\obj\Debug\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\obj\Debug\Exercicio07.exe
+C:\Users\55199\Desktop\POO\Exercicio07\Exercicio07\obj\Debug\Exercicio07.pdb
